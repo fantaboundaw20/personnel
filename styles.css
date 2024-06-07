@@ -1,0 +1,102 @@
+body{
+    background-color:rgb(245, 87, 87) ;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: white;
+}
+.profil{
+    display: flex;
+    align-items: center;
+}
+nav{
+    margin-left: 600PX;
+}
+h4{
+    margin-left: 8px;
+}
+ul,li{
+    display: flex ;
+    margin-left: 30px;
+}
+.fanta{
+    width: 300px;
+    border-radius: 50%;
+    
+}
+.propos{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ .section2{
+    display: flex;
+    margin-left: 100PX;
+ }
+ .compétences{
+    margin-left: 240px
+  
+  }  
+ 
+ button{
+    color: blue;
+}
+.contact{
+    margin-left: 400PX;
+    border:2px solid black ;
+    width: 450px;
+    background-color: white;
+    
+}
+input{
+    width: 350px;
+}
+form{
+    margin-left: 20px;
+}
+.tac{
+    text-align: center;
+
+}
+.lien{
+    text-align: center;
+    justify-content: space-around;
+    padding: 12px;
+}
+footer{
+background-color: white;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin: 0 20PX;
+}
+.fa{
+   width: 20px;  
+
+}
+.copy{
+    display: flex;
+    align-items: center;
+}
+.sa{
+    
+
+ 
+ }
+
+.listmedia{
+    display: flex;
+    justify-content: center;
+    margin-right: 20vh;
+
+}
+footer p{
+    font-size:1.3em;
+}
+
+
+
+
